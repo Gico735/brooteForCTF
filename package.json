@@ -1,0 +1,23 @@
+{
+  "name": "bruteforctf",
+  "version": "1.0.0",
+  "description": "script for brutforce router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gico735/bruteForCTF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gico735/bruteForCTF/issues"
+  },
+  "homepage": "https://github.com/Gico735/bruteForCTF#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
